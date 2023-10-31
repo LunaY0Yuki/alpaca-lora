@@ -29,6 +29,7 @@ def train(
     # model/data params
     base_model: str = "",  # the only required argument
     data_path: str = "yahma/alpaca-cleaned",
+    val_data_path: str = "",
     output_dir: str = "./lora-alpaca",
     # training hyperparams
     batch_size: int = 128,
@@ -36,7 +37,6 @@ def train(
     num_epochs: int = 3,
     learning_rate: float = 3e-4,
     cutoff_len: int = 256,
-    val_set_size: int = 2000,
     # lora hyperparams
     lora_r: int = 8,
     lora_alpha: int = 16,
@@ -68,7 +68,7 @@ def train(
             f"num_epochs: {num_epochs}\n"
             f"learning_rate: {learning_rate}\n"
             f"cutoff_len: {cutoff_len}\n"
-            f"val_set_size: {val_set_size}\n"
+            f"val_data_path: {val_data_path}\n"
             f"lora_r: {lora_r}\n"
             f"lora_alpha: {lora_alpha}\n"
             f"lora_dropout: {lora_dropout}\n"
@@ -210,16 +210,11 @@ def train(
 
     model.print_trainable_parameters()  # Be more transparent about the % of trainable params.
 
-    if val_set_size > 0:
-        train_val = data["train"].train_test_split(
-            test_size=val_set_size, shuffle=True, seed=42
-        )
-        train_data = (
-            train_val["train"].shuffle().map(generate_and_tokenize_prompt)
-        )
-        val_data = (
-            train_val["test"].shuffle().map(generate_and_tokenize_prompt)
-        )
+    if val_data_path != "":
+        val_data = load_dataset("json", data_files=val_data_path)
+
+        train_data = data["train"].shuffle().map(generate_and_tokenize_prompt)
+        val_data = val_data["train"].shuffle().map(generate_and_tokenize_prompt)
     else:
         train_data = data["train"].shuffle().map(generate_and_tokenize_prompt)
         val_data = None
@@ -240,15 +235,16 @@ def train(
             num_train_epochs=num_epochs,
             learning_rate=learning_rate,
             fp16=True,
-            logging_steps=10,
+            logging_steps=2,
             optim="adamw_torch",
-            evaluation_strategy="steps" if val_set_size > 0 else "no",
+            evaluation_strategy="steps" if val_data_path != "" else "no",
             save_strategy="steps",
-            eval_steps=200 if val_set_size > 0 else None,
-            save_steps=200,
+            do_eval=True if val_data != "" else False,
+            eval_steps=7 if val_data_path != "" else None,
+            save_steps=7,
             output_dir=output_dir,
             save_total_limit=3,
-            load_best_model_at_end=True if val_set_size > 0 else False,
+            load_best_model_at_end=True if val_data_path != "" else False,
             ddp_find_unused_parameters=False if ddp else None,
             group_by_length=group_by_length,
             report_to="wandb" if use_wandb else None,

@@ -1,0 +1,1402 @@
+[
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 0,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj0_False_sample0.png"
+    },
+    {
+        "prediction": "false",
+        "label": "false",
+        "match_score": 1,
+        "total_nb_objects": 0,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj0_False_sample1.png"
+    },
+    {
+        "prediction": "false",
+        "label": "false",
+        "match_score": 1,
+        "total_nb_objects": 0,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj0_False_sample2.png"
+    },
+    {
+        "prediction": "false",
+        "label": "false",
+        "match_score": 1,
+        "total_nb_objects": 0,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj0_False_sample3.png"
+    },
+    {
+        "prediction": "false",
+        "label": "false",
+        "match_score": 1,
+        "total_nb_objects": 0,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj0_False_sample4.png"
+    },
+    {
+        "prediction": "false",
+        "label": "false",
+        "match_score": 1,
+        "total_nb_objects": 0,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj0_False_sample5.png"
+    },
+    {
+        "prediction": "false",
+        "label": "false",
+        "match_score": 1,
+        "total_nb_objects": 0,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj0_False_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 0,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj0_False_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 0,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj0_False_sample8.png"
+    },
+    {
+        "prediction": "false",
+        "label": "false",
+        "match_score": 1,
+        "total_nb_objects": 0,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj0_False_sample9.png"
+    },
+    {
+        "prediction": "false",
+        "label": "false",
+        "match_score": 1,
+        "total_nb_objects": 1,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj1_False_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 1,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj1_False_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 1,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj1_False_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 1,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj1_False_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 1,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj1_False_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 1,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj1_False_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 1,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj1_False_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 1,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj1_False_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 1,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj1_False_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 1,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj1_False_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_False_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_False_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_False_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_False_sample3.png"
+    },
+    {
+        "prediction": "false",
+        "label": "false",
+        "match_score": 1,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_False_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_False_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_False_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_False_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_False_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_False_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_True_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_True_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_True_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_True_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_True_sample4.png"
+    },
+    {
+        "prediction": "false",
+        "label": "true",
+        "match_score": 0,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_True_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_True_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_True_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_True_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 2,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj2_True_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_False_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_False_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_False_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_False_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_False_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_False_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_False_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_False_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_False_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_False_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_True_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_True_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_True_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_True_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_True_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_True_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_True_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_True_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_True_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 3,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj3_True_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_False_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_False_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_False_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_False_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_False_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_False_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_False_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_False_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_False_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_False_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_True_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_True_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_True_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_True_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_True_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_True_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_True_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_True_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_True_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 4,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj4_True_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_False_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_False_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_False_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_False_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_False_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_False_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_False_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_False_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_False_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_False_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_True_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_True_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_True_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_True_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_True_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_True_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_True_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_True_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_True_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 5,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj5_True_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_False_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_False_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_False_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_False_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_False_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_False_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_False_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_False_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_False_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_False_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_True_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_True_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_True_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_True_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_True_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_True_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_True_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_True_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_True_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 6,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj6_True_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_False_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_False_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_False_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_False_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_False_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_False_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_False_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_False_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_False_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_False_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_True_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_True_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_True_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_True_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_True_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_True_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_True_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_True_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_True_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 7,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj7_True_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_False_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_False_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_False_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_False_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_False_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_False_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_False_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_False_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_False_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_False_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_True_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_True_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_True_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_True_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_True_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_True_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_True_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_True_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_True_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 8,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj8_True_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_False_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_False_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_False_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_False_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_False_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_False_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_False_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_False_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_False_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_False_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_True_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_True_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_True_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_True_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_True_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_True_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_True_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_True_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_True_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 9,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj9_True_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_False_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_False_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_False_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_False_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_False_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_False_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_False_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_False_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_False_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "false",
+        "match_score": 0,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_False_sample9.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_True_sample0.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_True_sample1.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_True_sample2.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_True_sample3.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_True_sample4.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_True_sample5.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_True_sample6.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_True_sample7.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_True_sample8.png"
+    },
+    {
+        "prediction": "true",
+        "label": "true",
+        "match_score": 1,
+        "total_nb_objects": 10,
+        "image_path": "./data/simple_exp1/final_states_images/test/obj10_True_sample9.png"
+    }
+]
